@@ -19,9 +19,10 @@ body{
     width: 500px;
     margin-top: 8px;
 }
-.container{
+.sketch-container{
     border: 1px solid black;
     border-color: black;
     height:500px;
     display: grid;
+    width: 500px;
 }
